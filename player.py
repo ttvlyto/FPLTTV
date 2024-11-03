@@ -1,5 +1,16 @@
 ##opens saved HTML written to players.txt
 ##parses iterate through string to find important data, like player links, name and pos
+class Player:
+    name = ''
+    club =  ''
+    dob = ''
+    appearances = 0
+    def __init__(self, name, club, dob, appearances):
+        self.name = name
+        self.club = club
+        self.dob = dob
+        self.appearances = appearances
+
 
 player = open("players.txt", "r")
 PlayerList = []

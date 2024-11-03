@@ -1,0 +1,382 @@
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 04/01/2000  (24)
+</div>
+<div class="player-overview__info">
+ 178cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/127/Bournemouth/overview">
+  Bournemouth
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t91.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t91.png, https://resources.premierleague.com/premierleague/badges/20/t91@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 90
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 4
+</div>
+<div class="player-overview__info">
+ 10
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 04/01/2000  (24)
+</div>
+<div class="player-overview__info">
+ 178cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/127/Bournemouth/overview">
+  Bournemouth
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t91.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t91.png, https://resources.premierleague.com/premierleague/badges/20/t91@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 90
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 4
+</div>
+<div class="player-overview__info">
+ 10
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 13/05/2006  (18)
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/15/Nottingham-Forest/overview">
+  Nottingham Forest
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t17.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t17.png, https://resources.premierleague.com/premierleague/badges/20/t17@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 13/05/2006  (18)
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/15/Nottingham-Forest/overview">
+  Nottingham Forest
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t17.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t17.png, https://resources.premierleague.com/premierleague/badges/20/t17@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 05/05/2006  (18)
+</div>
+<div class="player-overview__info">
+ 185cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/4/Chelsea/overview">
+  Chelsea
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t8.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t8.png, https://resources.premierleague.com/premierleague/badges/20/t8@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 1
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 05/05/2006  (18)
+</div>
+<div class="player-overview__info">
+ 185cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/4/Chelsea/overview">
+  Chelsea
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t8.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t8.png, https://resources.premierleague.com/premierleague/badges/20/t8@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Defender
+</div>
+<div class="player-overview__info">
+ 1
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 10/02/1997  (27)
+</div>
+<div class="player-overview__info">
+ 172cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/20/Southampton/overview">
+  Southampton
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t20.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t20.png, https://resources.premierleague.com/premierleague/badges/20/t20@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Forward
+</div>
+<div class="player-overview__info">
+ 75
+</div>
+<div class="player-overview__info">
+ 5
+</div>
+<div class="player-overview__info">
+ 4
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/GB-ENG.png"/>
+  <span class="visuallyHidden">
+   England
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  England
+ </span>
+</div>
+<div class="player-overview__info">
+ 10/02/1997  (27)
+</div>
+<div class="player-overview__info">
+ 172cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/20/Southampton/overview">
+  Southampton
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t20.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t20.png, https://resources.premierleague.com/premierleague/badges/20/t20@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Forward
+</div>
+<div class="player-overview__info">
+ 75
+</div>
+<div class="player-overview__info">
+ 5
+</div>
+<div class="player-overview__info">
+ 4
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/US.png"/>
+  <span class="visuallyHidden">
+   United States
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  United States
+ </span>
+</div>
+<div class="player-overview__info">
+ 14/02/1999  (25)
+</div>
+<div class="player-overview__info">
+ 173cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/127/Bournemouth/overview">
+  Bournemouth
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t91.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t91.png, https://resources.premierleague.com/premierleague/badges/20/t91@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Midfielder
+</div>
+<div class="player-overview__info">
+ 29
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ <span class="flag player-overview__flag">
+  <img class="player-overview__flag-icon" src="https://resources.premierleague.com/premierleague/flags/US.png"/>
+  <span class="visuallyHidden">
+   United States
+  </span>
+ </span>
+ <span class="player-overview__player-country">
+  United States
+ </span>
+</div>
+<div class="player-overview__info">
+ 14/02/1999  (25)
+</div>
+<div class="player-overview__info">
+ 173cm
+</div>
+<div class="player-overview__info">
+ <a href="/clubs/127/Bournemouth/overview">
+  Bournemouth
+  <span class="player-overview__player-club badge badge-image-container" data-size="20" data-widget="club-badge-image">
+   <img class="badge-image badge-image--20 js-badge-image" src="https://resources.premierleague.com/premierleague/badges/20/t91.png" srcset="https://resources.premierleague.com/premierleague/badges/20/t91.png, https://resources.premierleague.com/premierleague/badges/20/t91@x2.png 2x"/>
+  </span>
+ </a>
+</div>
+<div class="player-overview__info">
+ Midfielder
+</div>
+<div class="player-overview__info">
+ 29
+</div>
+<div class="player-overview__info">
+ 0
+</div>
+<div class="player-overview__info">
+ 0
+</div>
