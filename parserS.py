@@ -4,8 +4,8 @@ import asyncio
 
 f = open("links.txt", "r")
 p = open("playerStats.txt", "w")
-def parseStats(stats, len):
-    name = ''
+def parseStats(stats, len): ## passes thru dict with link and keyPair html 
+    name = '' 
     club = ''
     dob = ''
     appearances = 0
@@ -14,7 +14,20 @@ def parseStats(stats, len):
     for line in f:
 
         p.write(line + '\n')
+        #######
+        newstr = line
+        newstr = newstr[35:-10]
+        if newstr[0].isdigit():
+            newstr = newstr[2:]
+    
+        elif newstr[0] == '/':
+            newstr = newstr[1:]
+    
+        newstr = newstr.replace('-', ' ')
 
+        p.write(newstr + '\n')
+    
+        ######
         newstr = (stats[line])
         p.write(newstr + '\n')
         soup = BeautifulSoup(newstr, "html.parser")
