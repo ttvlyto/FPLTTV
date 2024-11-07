@@ -5,9 +5,10 @@ import parserS
 
 stats = []
 html = []
+keyPairs = {}
 file = open("links.txt", "r") ## opens list of player overview links from prem official site
 for line in file: ## redundatly adding files in list
-    stats.append(line.strip())
+    stats.append(line)
 with sync_playwright() as p: ##launches browser using chromium
     browser = p.chromium.launch(headless = False)
     page = browser.new_page()
@@ -30,9 +31,12 @@ with sync_playwright() as p: ##launches browser using chromium
 
 
         html.append(page.content()) ##finally add source html to list
-        time.sleep(2)
+        keyPairs[stats[x]] = page.content()
+
+        time.sleep(1)
     browser.close()
 listlen = len(html)
 
-parserS.parseStats(html, listlen) ##pare html in separate tab
+
+parserS.parseStats(keyPairs, 4) ##pare html in separate tab
 
