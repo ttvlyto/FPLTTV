@@ -15,7 +15,7 @@ for line in f:
     if newstr == '******end, new player******\n':
         print('new player has been found, reset')
     while i < len(newstr):
-        if newstr[i:i+14] == "overview__info":
+        if newstr.__contains__('overview__info'):
             newstr = next(f)
             print(newstr.replace(" ", ""))
 
