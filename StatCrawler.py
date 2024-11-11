@@ -2,6 +2,7 @@
 import time
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 import parserS
+import testerfile
 
 stats = []
 html = []
@@ -12,7 +13,7 @@ for line in file: ## redundatly adding files in list
 with sync_playwright() as p: ##launches browser using chromium
     browser = p.chromium.launch(headless = False)
     page = browser.new_page()
-    for x in range(0, 5): ##iterate through player links
+    for x in range(0, 30): ##iterate through player links
         link = "https://" + stats[x]
         page.goto(link)
         context = browser.new_context()
@@ -35,8 +36,9 @@ with sync_playwright() as p: ##launches browser using chromium
 
         time.sleep(1)
     browser.close()
-listlen = len(html)
+listlen = len(keyPairs)
 
 
-parserS.parseStats(keyPairs, 4) ##pare html in separate tab
+parserS.parseStats(keyPairs, listlen) ##pare html in separate tab
+testerfile.parseNprint()
 

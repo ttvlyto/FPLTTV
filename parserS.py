@@ -1,17 +1,27 @@
 from bs4 import BeautifulSoup
+
 import asyncio
 
 
-f = open("links.txt", "r")
-p = open("playerStats.txt", "w")
-def parseStats(stats, len): ## passes thru dict with link and keyPair html 
+
+
+
+def parseStats(stats, len):## passes thru dict with link and keyPair html
+    f = open("links.txt", "r")
+    p = open("playerStats.txt", "w")
     name = '' 
     club = ''
+
     dob = ''
     appearances = 0
     arr = []
+    lineNumber = 0
 
     for line in f:
+        lineNumber += 1
+        if lineNumber == len:
+            return
+
 
         p.write(line + '\n')
         #######
