@@ -1,6 +1,8 @@
 ##opens saved HTML written to players.txt
 ##parses iterate through string to find important data, like player links, name and pos
 
+
+
 player = open("players.txt", "r")
 PlayerList = []
 i = 0
