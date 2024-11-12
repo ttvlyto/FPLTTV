@@ -64,7 +64,7 @@ Yves Bissouma,Midfielder,Tottenham Hotspur,30/08/1996,www.premierleague.com/play
 Oscar Bobb,Midfielder,Manchester City,09/02/2006,www.premierleague.com/players/66657/Oscar-Bobb/overview
 Lamare Bogarde,Defender,Aston Villa,05/01/2004,www.premierleague.com/players/107846/Lamare-Bogarde/overview
 Willy Arnaud Boly,Defender,Nottingham Forest,22/11/1999,www.premierleague.com/players/16204/Willy-Arnaud-Boly/overview
-Aidan Borland,Midfielder,Aston Villa U19,17/12/2005,www.premierleague.com/players/138560/Aidan-Borland/overview
+Aidan Borland,Midfielder,Aston Villa,17/12/2005,www.premierleague.com/players/138560/Aidan-Borland/overview
 Alex Borto,Goalkeeper,Fulham,06/11/2003,www.premierleague.com/players/107805/Alex-Borto/overview
 Sven Botman,Defender,Newcastle United,12/01/2000,www.premierleague.com/players/49908/Sven-Botman/overview
 Jarrod Bowen,Forward,West Ham United,20/12/1996,www.premierleague.com/players/8868/Jarrod-Bowen/overview
@@ -74,7 +74,7 @@ Jarrad Branthwaite,Defender,Everton,27/06/2002,www.premierleague.com/players/663
 James Bree,Defender,Southampton,12/03/2004,www.premierleague.com/players/10565/James-Bree/overview
 Ben Brereton,Forward,Southampton,18/04/1999,www.premierleague.com/players/14242/Ben-Brereton/overview
 Nathan Broadhead,Forward,Ipswich Town,23/11/2003,www.premierleague.com/players/14636/Nathan-Broadhead/overview
-Ben Broggio,Forward,Aston Villa U19,29/01/2007,www.premierleague.com/players/127888/Ben-Broggio/overview
+Ben Broggio,Midfielder,Aston Villa,29/01/2007,www.premierleague.com/players/127888/Ben-Broggio/overview
 Armando Broja,Forward,Everton,10/09/2001,www.premierleague.com/players/31442/Armando-Broja/overview
 David Brooks,Midfielder,Bournemouth,01/09/2002,www.premierleague.com/players/13706/David-Brooks/overview
 Bruno Fernandes,Midfielder,Manchester United,08/09/1994,www.premierleague.com/players/23396/Bruno-Fernandes/overview
@@ -85,7 +85,7 @@ Cameron Burgess,Defender,Ipswich Town,21/10/1995,www.premierleague.com/players/1
 Dan Burn,Defender,Newcastle United,09/05/1992,www.premierleague.com/players/8707/Dan-Burn/overview
 Wes Burns,Forward,Ipswich Town,23/11/1994,www.premierleague.com/players/8201/Wes-Burns/overview
 Nathan Butler Oyedeji,Forward,Arsenal,04/01/2003,www.premierleague.com/players/51479/Nathan-Butler-Oyedeji/overview
-Luke Butterfield,Defender,Everton,29/09/2003,www.premierleague.com/players/69603/Luke-Butterfield/overview
+Luke Butterfield,Midfielder,Everton,29/09/2003,www.premierleague.com/players/69603/Luke-Butterfield/overview
 Killian Cahill,Goalkeeper,Brighton and Hove Albion,03/11/2003,www.premierleague.com/players/122282/Killian-Cahill/overview
 Moisés Caicedo,Midfielder,Chelsea,02/11/2001,www.premierleague.com/players/112203/Moisés-Caicedo/overview
 Tom Cairney,Midfielder,Fulham,20/01/1991,www.premierleague.com/players/3894/Tom-Cairney/overview
@@ -100,7 +100,7 @@ Cesare Casadei,Midfielder,Chelsea,10/01/2003,www.premierleague.com/players/75212
 Casemiro,Midfielder,Manchester United,23/02/1992,www.premierleague.com/players/5793/Casemiro/overview
 Kaelan Casey,Defender,West Ham United,28/10/2004,www.premierleague.com/players/109714/Kaelan-Casey/overview
 Matty Cash,Defender,Aston Villa,07/08/1997,www.premierleague.com/players/13344/Matty-Cash/overview
-Dante Cassanova,Midfielder,Tottenham Hotspur,21/06/2004,www.premierleague.com/players/73894/Dante-Cassanova/overview
+Dante Cassanova,Defender,Tottenham Hotspur,21/06/2004,www.premierleague.com/players/73894/Dante-Cassanova/overview
 Timothy Castagne,Defender,Fulham,05/12/1995,www.premierleague.com/players/6712/Timothy-Castagne/overview
 Trevoh Chalobah,Defender,Crystal Palace,20/08/2005,www.premierleague.com/players/14575/Trevoh-Chalobah/overview
 Conor Chaplin,Forward,Ipswich Town,20/01/1995,www.premierleague.com/players/10874/Conor-Chaplin/overview
@@ -122,7 +122,7 @@ Matthew Cox,Goalkeeper,Bristol Rovers,25/03/2000,www.premierleague.com/players/9
 Aaron Cresswell,Defender,West Ham United,29/05/2005,www.premierleague.com/players/8897/Aaron-Cresswell/overview
 Marc Cucurella,Defender,Chelsea,22/07/1998,www.premierleague.com/players/27277/Marc-Cucurella/overview
 Jorge Cuenca,Defender,Fulham,17/11/1999,www.premierleague.com/players/35752/Jorge-Cuenca/overview
-Luke Cundle,Midfielder,Wolverhampton Wanderers,26/04/2002,www.premierleague.com/players/23989/Luke-Cundle/overview
+Luke Cundle,Midfielder,Stoke City,26/04/2002,www.premierleague.com/players/23989/Luke-Cundle/overview
 Eric da Silva Moreira,Forward,Nottingham Forest,14/02/2006,www.premierleague.com/players/146394/Eric-da-Silva-Moreira/overview
 Patson Daka,Forward,Leicester City,05/03/2005,www.premierleague.com/players/24994/Patson-Daka/overview
 Mikkel Damsgaard,Midfielder,Brentford,03/07/2000,www.premierleague.com/players/49731/Mikkel-Damsgaard/overview
@@ -178,8 +178,387 @@ Wout Faes,Defender,Leicester City,19/07/2002,www.premierleague.com/players/20566
 Abdul Fatawu,Forward,Leicester City,14/07/1998,www.premierleague.com/players/127644/Abdul-Fatawu/overview
 Evan Ferguson,Forward,Brighton and Hove Albion,31/10/2002,www.premierleague.com/players/71590/Evan-Ferguson/overview
 Enzo Fernández,Midfielder,Chelsea,17/01/2001,www.premierleague.com/players/63741/Enzo-Fernández/overview
-Jayce Fitzgerald,Midfielder,Manchester United U19,17/02/2003,www.premierleague.com/players/120048/Jayce-Fitzgerald/overview
+Jayce Fitzgerald,Midfielder,Manchester United,17/02/2003,www.premierleague.com/players/120048/Jayce-Fitzgerald/overview
 Mark Flekken,Goalkeeper,Brentford,13/06/1993,www.premierleague.com/players/33280/Mark-Flekken/overview
-Phil Foden,Midfielder,Manchester City,19/03/2007,www.premierleague.com/players/14805/Phil-Foden/overview
+Jack Fletcher,Forward,Manchester United,19/03/2007,www.premierleague.com/players/128366/Jack-Fletcher/overview
+Phil Foden,Midfielder,Manchester City,28/05/2000,www.premierleague.com/players/14805/Phil-Foden/overview
 Wes Foderingham,Goalkeeper,West Ham United,14/01/1991,www.premierleague.com/players/3881/Wes-Foderingham/overview
 Wesley Fofana,Defender,Chelsea,17/12/2000,www.premierleague.com/players/66284/Wesley-Fofana/overview
+Fraser Forster,Goalkeeper,Tottenham Hotspur,22/02/1996,www.premierleague.com/players/3170/Fraser-Forster/overview
+Ryan Fraser,Midfielder,Southampton,16/07/2000,www.premierleague.com/players/8052/Ryan-Fraser/overview
+Remo Freuler,Midfielder,Bologna,05/03/1993,www.premierleague.com/players/22624/Remo-Freuler/overview
+Niclas Füllkrug,Forward,West Ham United,09/02/1993,www.premierleague.com/players/42569/Niclas-Füllkrug/overview
+Gabriel Jesus,Forward,Arsenal,03/04/1997,www.premierleague.com/players/19680/Gabriel-Jesus/overview
+Gabriel Magalhães,Defender,Arsenal,19/12/1997,www.premierleague.com/players/50234/Gabriel-Magalhães/overview
+Gabriel Martinelli,Forward,Arsenal,18/06/2001,www.premierleague.com/players/66104/Gabriel-Martinelli/overview
+Cody Gakpo,Forward,Liverpool,07/05/1999,www.premierleague.com/players/32894/Cody-Gakpo/overview
+Alejandro Garnacho,Forward,Manchester United,06/02/2000,www.premierleague.com/players/68987/Alejandro-Garnacho/overview
+James Garner,Midfielder,Everton,13/03/2001,www.premierleague.com/players/23841/James-Garner/overview
+Joe Gauci,Goalkeeper,Aston Villa,04/07/2000,www.premierleague.com/players/51901/Joe-Gauci/overview
+Tyrique George,Forward,Chelsea,25/09/1995,www.premierleague.com/players/118442/Tyrique-George/overview
+Morgan Gibbs White,Midfielder,Nottingham Forest,06/09/1993,www.premierleague.com/players/15259/Morgan-Gibbs-White/overview
+Mark Gillespie,Goalkeeper,Newcastle United,11/02/2001,www.premierleague.com/players/8321/Mark-Gillespie/overview
+Martial Godo,Forward,Wigan Athletic,11/06/2001,www.premierleague.com/players/124083/Martial-Godo/overview
+Michael Golding,Midfielder,Leicester City,25/09/2003,www.premierleague.com/players/117859/Michael-Golding/overview
+Joe Gomez,Defender,Liverpool,23/05/1997,www.premierleague.com/players/10651/Joe-Gomez/overview
+Gonçalo Guedes,Forward,Villarreal,29/11/1996,www.premierleague.com/players/11130/Gonçalo-Guedes/overview
+Enso González,Forward,Wolverhampton Wanderers,20/01/2005,www.premierleague.com/players/139644/Enso-González/overview
+Daniel Gore,Midfielder,Port Vale,03/08/1995,www.premierleague.com/players/112653/Daniel-Gore/overview
+Ryan Gravenberch,Midfielder,Liverpool,01/10/2004,www.premierleague.com/players/49909/Ryan-Gravenberch/overview
+Jack Grealish,Midfielder,Manchester City,28/06/1996,www.premierleague.com/players/4260/Jack-Grealish/overview
+Jacob Greaves,Defender,Ipswich Town,12/09/2000,www.premierleague.com/players/49254/Jacob-Greaves/overview
+Brajan Gruda,Midfielder,Brighton and Hove Albion,20/02/2003,www.premierleague.com/players/134176/Brajan-Gruda/overview
+Marc Guéhi,Defender,Crystal Palace,10/01/1987,www.premierleague.com/players/14569/Marc-Guéhi/overview
+Idrissa Gueye,Midfielder,Everton,26/09/1989,www.premierleague.com/players/12582/Idrissa-Gueye/overview
+Marc Guiu,Forward,Chelsea,04/01/2006,www.premierleague.com/players/130068/Marc-Guiu/overview
+Ilkay Gündogan,Midfielder,Manchester City,24/10/1990,www.premierleague.com/players/5101/Ilkay-Gündogan/overview
+Gustavo Nunes,Forward,Brentford,23/03/2005,www.premierleague.com/players/148162/Gustavo-Nunes/overview
+Malo Gusto,Defender,Chelsea,05/01/1994,www.premierleague.com/players/68827/Malo-Gusto/overview
+Josko Gvardiol,Defender,Manchester City,23/01/2002,www.premierleague.com/players/67178/Josko-Gvardiol/overview
+Erling Haaland,Forward,Manchester City,21/07/2000,www.premierleague.com/players/65970/Erling-Haaland/overview
+Lewis Hall,Defender,Newcastle United,08/09/2004,www.premierleague.com/players/108922/Lewis-Hall/overview
+Harry Clarke,Defender,Ipswich Town,13/11/2003,www.premierleague.com/players/19877/Harry-Clarke/overview
+Taylor Harwood Bellis,Defender,Southampton,30/01/2002,www.premierleague.com/players/25447/Taylor-Harwood-Bellis/overview
+Kortney Hause,Defender,Aston Villa,16/07/1995,www.premierleague.com/players/10000/Kortney-Hause/overview
+Kai Havertz,Midfielder,Arsenal,11/06/1999,www.premierleague.com/players/20810/Kai-Havertz/overview
+Isaac Hayden,Midfielder,Newcastle United,22/03/1995,www.premierleague.com/players/4713/Isaac-Hayden/overview
+Ayden Heaven,Defender,Arsenal,03/06/2005,www.premierleague.com/players/133114/Ayden-Heaven/overview
+Dean Henderson,Goalkeeper,Crystal Palace,27/04/2005,www.premierleague.com/players/13988/Dean-Henderson/overview
+Rico Henry,Defender,Brentford,31/01/1992,www.premierleague.com/players/10947/Rico-Henry/overview
+Mads Hermansen,Goalkeeper,Leicester City,11/07/2000,www.premierleague.com/players/118083/Mads-Hermansen/overview
+Aaron Hickey,Defender,Brentford,04/11/2005,www.premierleague.com/players/115166/Aaron-Hickey/overview
+James Hill,Defender,Bournemouth,10/01/2002,www.premierleague.com/players/51942/James-Hill/overview
+Jack Hinshelwood,Midfielder,Brighton and Hove Albion,30/01/2003,www.premierleague.com/players/112739/Jack-Hinshelwood/overview
+George Hirst,Forward,Ipswich Town,15/02/1999,www.premierleague.com/players/14283/George-Hirst/overview
+Rob Holding,Defender,Crystal Palace,14/11/1990,www.premierleague.com/players/11575/Rob-Holding/overview
+Callum Hudson Odoi,Forward,Nottingham Forest,22/10/1996,www.premierleague.com/players/23702/Callum-Hudson-Odoi/overview
+Will Hughes,Midfielder,Crystal Palace,17/04/1995,www.premierleague.com/players/8589/Will-Hughes/overview
+Dean Huijsen,Defender,Bournemouth,19/10/2003,www.premierleague.com/players/123585/Dean-Huijsen/overview
+Omari Hutchinson,Forward,Ipswich Town,15/03/2003,www.premierleague.com/players/98300/Omari-Hutchinson/overview
+Hwang Hee Chan,Forward,Wolverhampton Wanderers,26/01/1996,www.premierleague.com/players/20337/Hwang-Hee-Chan/overview
+Rasmus Højlund,Forward,Manchester United,28/08/1992,www.premierleague.com/players/122934/Rasmus-Højlund/overview
+Igor Julio,Defender,Brighton and Hove Albion,07/02/1998,www.premierleague.com/players/21912/Igor-Julio/overview
+Danny Ings,Forward,West Ham United,03/10/1996,www.premierleague.com/players/8245/Danny-Ings/overview
+Tim Iroegbunam,Midfielder,Everton,30/06/2003,www.premierleague.com/players/66538/Tim-Iroegbunam/overview
+Alexander Isak,Forward,Newcastle United,13/05/2000,www.premierleague.com/players/21737/Alexander-Isak/overview
+Daniel Iversen,Goalkeeper,Stoke City,19/07/1997,www.premierleague.com/players/15332/Daniel-Iversen/overview
+Alex Iwobi,Forward,Fulham,03/05/1996,www.premierleague.com/players/4717/Alex-Iwobi/overview
+Jack Clarke,Forward,Ipswich Town,23/11/2000,www.premierleague.com/players/32715/Jack-Clarke/overview
+Jacob Murphy,Midfielder,Newcastle United,03/09/2003,www.premierleague.com/players/9662/Jacob-Murphy/overview
+Reece James,Defender,Chelsea,08/12/1999,www.premierleague.com/players/14571/Reece-James/overview
+Vitaly Janelt,Midfielder,Brentford,10/05/1998,www.premierleague.com/players/23194/Vitaly-Janelt/overview
+Vítezslav Jaros,Goalkeeper,Liverpool,23/07/2001,www.premierleague.com/players/24807/Vítezslav-Jaros/overview
+Mathias Jensen,Midfielder,Brentford,11/07/2003,www.premierleague.com/players/49726/Mathias-Jensen/overview
+Raúl Jiménez,Forward,Fulham,05/05/1991,www.premierleague.com/players/11071/Raúl-Jiménez/overview
+Jamaldeen Jimoh,Midfielder,Aston Villa,02/10/2006,www.premierleague.com/players/124181/Jamaldeen-Jimoh/overview
+João Félix,Forward,Chelsea,27/05/1994,www.premierleague.com/players/50856/João-Félix/overview
+João Gomes,Midfielder,Wolverhampton Wanderers,12/02/2001,www.premierleague.com/players/133679/João-Gomes/overview
+João Pedro,Forward,Brighton and Hove Albion,09/07/1995,www.premierleague.com/players/72371/João-Pedro/overview
+João Virgínia,Goalkeeper,Everton,10/10/1999,www.premierleague.com/players/14428/João-Virgínia/overview
+Joelinton,Forward,Newcastle United,14/08/1996,www.premierleague.com/players/20607/Joelinton/overview
+Ben Johnson,Defender,Ipswich Town,06/03/2003,www.premierleague.com/players/15212/Ben-Johnson/overview
+Sam Johnstone,Goalkeeper,Wolverhampton Wanderers,25/03/1993,www.premierleague.com/players/4331/Sam-Johnstone/overview
+Curtis Jones,Midfielder,Liverpool,30/01/2001,www.premierleague.com/players/23815/Curtis-Jones/overview
+Jorginho,Midfielder,Arsenal,27/02/1992,www.premierleague.com/players/5682/Jorginho/overview
+José Sá,Goalkeeper,Wolverhampton Wanderers,17/01/1993,www.premierleague.com/players/15715/José-Sá/overview
+Jota Silva,Forward,Nottingham Forest,06/05/2005,www.premierleague.com/players/133025/Jota-Silva/overview
+James Justin,Defender,Leicester City,07/03/2002,www.premierleague.com/players/13515/James-Justin/overview
+Filip Jørgensen,Goalkeeper,Chelsea,16/04/2002,www.premierleague.com/players/75989/Filip-Jørgensen/overview
+Ismeal Kabia,Forward,Arsenal,10/12/2005,www.premierleague.com/players/127728/Ismeal-Kabia/overview
+Maldini Kacurri,Defender,Arsenal,12/05/2001,www.premierleague.com/players/127722/Maldini-Kacurri/overview
+Ferdi Kadioglu,Midfielder,Brighton and Hove Albion,07/10/1999,www.premierleague.com/players/50727/Ferdi-Kadioglu/overview
+Sasa Kalajdzic,Forward,Wolverhampton Wanderers,07/07/1997,www.premierleague.com/players/108319/Sasa-Kalajdzic/overview
+Daichi Kamada,Midfielder,Crystal Palace,05/08/1996,www.premierleague.com/players/49759/Daichi-Kamada/overview
+Boubacar Kamara,Midfielder,Aston Villa,23/11/1999,www.premierleague.com/players/25067/Boubacar-Kamara/overview
+Thierry Katsukunya,Defender,Aston Villa U19,25/08/2004,www.premierleague.com/players/123557/Thierry-Katsukunya/overview
+Michael Keane,Defender,Everton,27/12/2003,www.premierleague.com/players/4333/Michael-Keane/overview
+Caoimhín Kelleher,Goalkeeper,Liverpool,21/09/1996,www.premierleague.com/players/14723/Caoimhín-Kelleher/overview
+Lloyd Kelly,Defender,Newcastle United,06/10/1998,www.premierleague.com/players/21585/Lloyd-Kelly/overview
+Omari Kellyman,Forward,Chelsea,15/09/2005,www.premierleague.com/players/117753/Omari-Kellyman/overview
+Kepa,Goalkeeper,Bournemouth,03/10/1994,www.premierleague.com/players/11373/Kepa/overview
+Milos Kerkez,Defender,Bournemouth,07/11/2003,www.premierleague.com/players/116665/Milos-Kerkez/overview
+Maximilian Kilman,Defender,West Ham United,23/10/2002,www.premierleague.com/players/13522/Maximilian-Kilman/overview
+Kim Ji Soo,Defender,Brentford,24/12/2004,www.premierleague.com/players/126962/Kim-Ji-Soo/overview
+Josh King,Midfielder,Fulham,03/01/2007,www.premierleague.com/players/128976/Josh-King/overview
+Jakub Kiwior,Defender,Arsenal,02/02/2005,www.premierleague.com/players/109478/Jakub-Kiwior/overview
+Justin Kluivert,Forward,Bournemouth,05/05/1999,www.premierleague.com/players/21519/Justin-Kluivert/overview
+Yunus Konak,Midfielder,Brentford,14/06/2002,www.premierleague.com/players/144265/Yunus-Konak/overview
+Ibrahima Konaté,Defender,Liverpool,25/05/1999,www.premierleague.com/players/23593/Ibrahima-Konaté/overview
+Ezri Konsa,Defender,Aston Villa,14/02/1994,www.premierleague.com/players/13274/Ezri-Konsa/overview
+Mateo Kovacic,Midfielder,Manchester City,19/09/2005,www.premierleague.com/players/12520/Mateo-Kovacic/overview
+Caleb Kporha,Defender,Crystal Palace,17/05/2000,www.premierleague.com/players/127828/Caleb-Kporha/overview
+Emil Krafth,Defender,Newcastle United,02/08/1994,www.premierleague.com/players/66494/Emil-Krafth/overview
+Mohammed Kudus,Midfielder,West Ham United,16/12/2002,www.premierleague.com/players/51364/Mohammed-Kudus/overview
+Dejan Kulusevski,Midfielder,Tottenham Hotspur,25/04/2000,www.premierleague.com/players/49316/Dejan-Kulusevski/overview
+Garang Kuol,Forward,Newcastle United,15/09/2004,www.premierleague.com/players/125185/Garang-Kuol/overview
+Maxence Lacroix,Defender,Crystal Palace,09/06/2005,www.premierleague.com/players/76104/Maxence-Lacroix/overview
+Adam Lallana,Midfielder,Southampton,01/02/1993,www.premierleague.com/players/4618/Adam-Lallana/overview
+Tariq Lamptey,Defender,Brighton and Hove Albion,30/09/2000,www.premierleague.com/players/23704/Tariq-Lamptey/overview
+Will Lankshear,Forward,Tottenham Hotspur,20/04/2005,www.premierleague.com/players/119462/Will-Lankshear/overview
+Juan Larios,Defender,Southampton,27/05/1994,www.premierleague.com/players/107842/Juan-Larios/overview
+Jamaal Lascelles,Defender,Newcastle United,11/11/1993,www.premierleague.com/players/9257/Jamaal-Lascelles/overview
+Roméo Lavia,Midfielder,Chelsea,06/01/2004,www.premierleague.com/players/99282/Roméo-Lavia/overview
+Mario Lemina,Midfielder,Wolverhampton Wanderers,22/11/2003,www.premierleague.com/players/5583/Mario-Lemina/overview
+Bernd Leno,Goalkeeper,Fulham,17/06/1995,www.premierleague.com/players/4985/Bernd-Leno/overview
+Jefferson Lerma,Midfielder,Crystal Palace,19/12/2001,www.premierleague.com/players/37776/Jefferson-Lerma/overview
+Rico Lewis,Defender,Manchester City,21/11/2004,www.premierleague.com/players/99281/Rico-Lewis/overview
+Lewis Miley,Midfielder,Newcastle United,01/05/2006,www.premierleague.com/players/117647/Lewis-Miley/overview
+Keane Lewis Potter,Forward,Brentford,22/02/2001,www.premierleague.com/players/24369/Keane-Lewis-Potter/overview
+Myles Lewis Skelly,Midfielder,Arsenal U19,26/09/2006,www.premierleague.com/players/114564/Myles-Lewis-Skelly/overview
+Victor Lindelöf,Defender,Manchester United,17/07/1994,www.premierleague.com/players/5066/Victor-Lindelöf/overview
+Jesper Lindstrøm,Midfielder,Everton,29/02/2000,www.premierleague.com/players/118112/Jesper-Lindstrøm/overview
+Tino Livramento,Defender,Newcastle United,27/02/1997,www.premierleague.com/players/49495/Tino-Livramento/overview
+Sean Longstaff,Midfielder,Newcastle United,26/12/1986,www.premierleague.com/players/14897/Sean-Longstaff/overview
+Lucas Paquetá,Midfielder,West Ham United,21/07/1994,www.premierleague.com/players/55776/Lucas-Paquetá/overview
+Luis Guilherme,Forward,West Ham United,09/02/2006,www.premierleague.com/players/146354/Luis-Guilherme/overview
+Sasa Lukic,Midfielder,Fulham,13/05/1993,www.premierleague.com/players/16044/Sasa-Lukic/overview
+Joe Lumley,Goalkeeper,Southampton,15/02/1995,www.premierleague.com/players/9462/Joe-Lumley/overview
+Massimo Luongo,Midfielder,Ipswich Town,25/09/1992,www.premierleague.com/players/4432/Massimo-Luongo/overview
+Ian Maatsen,Defender,Aston Villa,01/02/1997,www.premierleague.com/players/51223/Ian-Maatsen/overview
+Alexis Mac Allister,Midfielder,Liverpool,24/12/1998,www.premierleague.com/players/63633/Alexis-Mac-Allister/overview
+James Maddison,Midfielder,Tottenham Hotspur,14/11/2001,www.premierleague.com/players/8456/James-Maddison/overview
+Noni Madueke,Forward,Chelsea,10/03/2002,www.premierleague.com/players/67407/Noni-Madueke/overview
+Paris Maghoma,Midfielder,Bolton Wanderers,08/05/2001,www.premierleague.com/players/23946/Paris-Maghoma/overview
+Harry Maguire,Defender,Manchester United,05/03/1993,www.premierleague.com/players/9566/Harry-Maguire/overview
+Kobbie Mainoo,Midfielder,Manchester United,01/01/1996,www.premierleague.com/players/108936/Kobbie-Mainoo/overview
+Tyrell Malacia,Defender,Manchester United,17/08/1999,www.premierleague.com/players/23581/Tyrell-Malacia/overview
+Orel Mangala,Midfielder,Everton,29/09/2000,www.premierleague.com/players/49738/Orel-Mangala/overview
+Ryan Manning,Defender,Southampton,14/06/1996,www.premierleague.com/players/14252/Ryan-Manning/overview
+Solly March,Midfielder,Brighton and Hove Albion,05/05/1994,www.premierleague.com/players/8171/Solly-March/overview
+Zach Marsh,Forward,Crystal Palace,09/03/1995,www.premierleague.com/players/124846/Zach-Marsh/overview
+Emiliano Martínez,Goalkeeper,Aston Villa,28/11/2004,www.premierleague.com/players/4245/Emiliano-Martínez/overview
+Jean Philippe Mateta,Forward,Crystal Palace,20/11/2002,www.premierleague.com/players/20874/Jean-Philippe-Mateta/overview
+Mateus Fernandes,Midfielder,Southampton,10/07/2004,www.premierleague.com/players/119072/Mateus-Fernandes/overview
+Matheus Cunha,Forward,Wolverhampton Wanderers,03/09/2004,www.premierleague.com/players/51202/Matheus-Cunha/overview
+Matheus França,Forward,Crystal Palace,01/04/2004,www.premierleague.com/players/133681/Matheus-França/overview
+Matheus Nunes,Midfielder,Manchester City,27/08/1998,www.premierleague.com/players/76204/Matheus-Nunes/overview
+Remi Matthews,Goalkeeper,Crystal Palace,23/01/2004,www.premierleague.com/players/10827/Remi-Matthews/overview
+Stephy Mavididi,Forward,Leicester City,14/08/1996,www.premierleague.com/players/14458/Stephy-Mavididi/overview
+Konstantinos Mavropanos,Defender,West Ham United,11/12/1997,www.premierleague.com/players/32638/Konstantinos-Mavropanos/overview
+Noussair Mazraoui,Defender,Manchester United,13/09/2005,www.premierleague.com/players/33245/Noussair-Mazraoui/overview
+Bryan Mbeumo,Midfielder,Brentford,19/04/1995,www.premierleague.com/players/66360/Bryan-Mbeumo/overview
+James McAtee,Midfielder,Manchester City,18/10/2002,www.premierleague.com/players/49270/James-McAtee/overview
+Kasey McAteer,Midfielder,Leicester City,22/11/2001,www.premierleague.com/players/51553/Kasey-McAteer/overview
+Alex McCarthy,Goalkeeper,Southampton,03/12/1989,www.premierleague.com/players/4573/Alex-McCarthy/overview
+John McGinn,Midfielder,Aston Villa,13/09/2004,www.premierleague.com/players/51423/John-McGinn/overview
+Dwight McNeil,Forward,Everton,12/11/1996,www.premierleague.com/players/24797/Dwight-McNeil/overview
+Ben Mee,Defender,Brentford,09/09/2003,www.premierleague.com/players/3909/Ben-Mee/overview
+Jayden Meghoma,Defender,Brentford,28/06/2006,www.premierleague.com/players/122142/Jayden-Meghoma/overview
+Mikel Merino,Midfielder,Arsenal,21/01/2003,www.premierleague.com/players/19778/Mikel-Merino/overview
+Max Merrick,Goalkeeper,Chelsea,10/11/2005,www.premierleague.com/players/109707/Max-Merrick/overview
+Bastien Meupiyou,Defender,Wolverhampton Wanderers,06/09/2004,www.premierleague.com/players/145114/Bastien-Meupiyou/overview
+Shumaira Mheuka,Forward,Chelsea,12/02/2008,www.premierleague.com/players/122945/Shumaira-Mheuka/overview
+Nikola Milenkovic,Defender,Nottingham Forest,11/04/2002,www.premierleague.com/players/16035/Nikola-Milenkovic/overview
+James Milner,Midfielder,Brighton and Hove Albion,14/01/2004,www.premierleague.com/players/2100/James-Milner/overview
+Tyrone Mings,Defender,Aston Villa,13/03/1993,www.premierleague.com/players/8900/Tyrone-Mings/overview
+Yankuba Minteh,Forward,Brighton and Hove Albion,22/07/2004,www.premierleague.com/players/136175/Yankuba-Minteh/overview
+Tyrick Mitchell,Defender,Crystal Palace,01/09/1999,www.premierleague.com/players/24334/Tyrick-Mitchell/overview
+Kaoru Mitoma,Midfielder,Brighton and Hove Albion,20/05/1997,www.premierleague.com/players/117732/Kaoru-Mitoma/overview
+Jakub Moder,Midfielder,Brighton and Hove Albion,16/09/1994,www.premierleague.com/players/108751/Jakub-Moder/overview
+Mohamed Salah,Forward,Liverpool,11/07/1992,www.premierleague.com/players/5178/Mohamed-Salah/overview
+Zane Monlouis,Defender,Arsenal,16/10/2003,www.premierleague.com/players/49480/Zane-Monlouis/overview
+Bradley Moonan,Defender,Everton,01/01/1997,www.premierleague.com/players/127754/Bradley-Moonan/overview
+Kobei Moore,Forward,Aston Villa,30/11/2004,www.premierleague.com/players/112745/Kobei-Moore/overview
+Morato,Defender,Nottingham Forest,15/10/2003,www.premierleague.com/players/67510/Morato/overview
+Álex Moreno,Defender,Nottingham Forest,08/06/1993,www.premierleague.com/players/37221/Álex-Moreno/overview
+Iwan Morgan,Forward,Brentford,29/01/2006,www.premierleague.com/players/132068/Iwan-Morgan/overview
+Tyler Morton,Midfielder,Hull City,31/10/2002,www.premierleague.com/players/51574/Tyler-Morton/overview
+Yerson Mosquera,Defender,Villarreal,02/05/2001,www.premierleague.com/players/115114/Yerson-Mosquera/overview
+Mason Mount,Midfielder,Manchester United,06/01/2002,www.premierleague.com/players/14580/Mason-Mount/overview
+Mykhailo Mudryk,Midfielder,Chelsea,28/09/2003,www.premierleague.com/players/53991/Mykhailo-Mudryk/overview
+Daniel Muñoz,Defender,Crystal Palace,08/09/2006,www.premierleague.com/players/76353/Daniel-Muñoz/overview
+Arijanet Muric,Goalkeeper,Ipswich Town,08/02/2005,www.premierleague.com/players/19911/Arijanet-Muric/overview
+Murillo,Defender,Nottingham Forest,04/07/2002,www.premierleague.com/players/139648/Murillo/overview
+Alex Murphy,Defender,Newcastle United,25/06/2004,www.premierleague.com/players/127659/Alex-Murphy/overview
+Vitalii Mykolenko,Defender,Everton,25/09/2004,www.premierleague.com/players/24983/Vitalii-Mykolenko/overview
+Iliman Ndiaye,Forward,Everton,18/11/2006,www.premierleague.com/players/31936/Iliman-Ndiaye/overview
+Wilfred Ndidi,Midfielder,Leicester City,16/12/1996,www.premierleague.com/players/20479/Wilfred-Ndidi/overview
+Reiss Nelson,Forward,Fulham,02/12/2003,www.premierleague.com/players/14450/Reiss-Nelson/overview
+Nélson Semedo,Defender,Wolverhampton Wanderers,16/11/1993,www.premierleague.com/players/16642/Nélson-Semedo/overview
+Neto,Goalkeeper,Arsenal,19/07/1989,www.premierleague.com/players/6593/Neto/overview
+Josh Nichols,Defender,Arsenal,08/03/1996,www.premierleague.com/players/127721/Josh-Nichols/overview
+Eddie Nketiah,Forward,Crystal Palace,30/05/1999,www.premierleague.com/players/14451/Eddie-Nketiah/overview
+Christopher Nkunku,Forward,Chelsea,14/11/1997,www.premierleague.com/players/16784/Christopher-Nkunku/overview
+Darwin Núñez,Forward,Liverpool,24/06/1999,www.premierleague.com/players/70287/Darwin-Núñez/overview
+Ethan Nwaneri,Midfielder,Arsenal U19,26/01/2000,www.premierleague.com/players/114566/Ethan-Nwaneri/overview
+Treymaurice Nyoni,Midfielder,Liverpool U19,26/06/2006,www.premierleague.com/players/130665/Treymaurice-Nyoni/overview
+Christian Nørgaard,Midfielder,Brentford,10/03/1994,www.premierleague.com/players/42331/Christian-Nørgaard/overview
+Jake O'Brien,Defender,Everton,15/05/2001,www.premierleague.com/players/112589/Jake-O'Brien/overview
+Joseph O'Brien Whitmarsh,Midfielder,Southampton,11/05/2005,www.premierleague.com/players/144853/Joseph-O'Brien-Whitmarsh/overview
+Matt O'Riley,Midfielder,Brighton and Hove Albion,21/03/2005,www.premierleague.com/players/14671/Matt-O'Riley/overview
+Dara O'Shea,Defender,Ipswich Town,04/03/1999,www.premierleague.com/players/15154/Dara-O'Shea/overview
+Wilson Odobert,Forward,Tottenham Hotspur,23/08/2006,www.premierleague.com/players/118579/Wilson-Odobert/overview
+Chiedozie Ogbene,Forward,Ipswich Town,26/10/2002,www.premierleague.com/players/33128/Chiedozie-Ogbene/overview
+Habeeb Ogunneye,Defender,Manchester United,23/05/1988,www.premierleague.com/players/117615/Habeeb-Ogunneye/overview
+Caleb Okoli,Defender,Leicester City,30/03/2005,www.premierleague.com/players/66011/Caleb-Okoli/overview
+Robin Olsen,Goalkeeper,Aston Villa,09/09/2001,www.premierleague.com/players/11224/Robin-Olsen/overview
+Callum Olusesi,Midfielder,Tottenham Hotspur,11/03/2007,www.premierleague.com/players/127846/Callum-Olusesi/overview
+Andrew Omobamidele,Defender,Nottingham Forest,23/06/2002,www.premierleague.com/players/53085/Andrew-Omobamidele/overview
+Amadou Onana,Midfielder,Aston Villa,16/08/2001,www.premierleague.com/players/108096/Amadou-Onana/overview
+Paul Onuachu,Forward,Southampton,28/05/1994,www.premierleague.com/players/15713/Paul-Onuachu/overview
+Stefan Ortega,Goalkeeper,Manchester City,04/03/2003,www.premierleague.com/players/47133/Stefan-Ortega/overview
+William Osula,Forward,Newcastle United,29/11/2004,www.premierleague.com/players/114590/William-Osula/overview
+Dango Ouattara,Forward,Bournemouth,11/02/2002,www.premierleague.com/players/133890/Dango-Ouattara/overview
+Salah Eddine Oulad M'hand,Midfielder,Arsenal,20/08/2003,www.premierleague.com/players/92734/Salah-Eddine-Oulad-M'hand/overview
+Cole Palmer,Midfielder,Chelsea,24/08/2005,www.premierleague.com/players/49293/Cole-Palmer/overview
+Thomas Partey,Midfielder,Arsenal,28/02/1997,www.premierleague.com/players/4936/Thomas-Partey/overview
+Travis Patterson,Defender,Aston Villa U19,06/10/2005,www.premierleague.com/players/114058/Travis-Patterson/overview
+Pedro Lima,Defender,Wolverhampton Wanderers,04/07/2002,www.premierleague.com/players/147032/Pedro-Lima/overview
+Pedro Neto,Forward,Chelsea,09/03/2000,www.premierleague.com/players/21998/Pedro-Neto/overview
+Ben Perry,Midfielder,Nottingham Forest,20/12/2001,www.premierleague.com/players/115446/Ben-Perry/overview
+Cameron Peupion,Midfielder,Brighton and Hove Albion,08/10/1999,www.premierleague.com/players/92610/Cameron-Peupion/overview
+Jaden Philogene,Forward,Aston Villa,12/06/1992,www.premierleague.com/players/64519/Jaden-Philogene/overview
+Jordan Pickford,Goalkeeper,Everton,07/03/1994,www.premierleague.com/players/4640/Jordan-Pickford/overview
+Ethan Pinnock,Defender,Brentford,29/05/1993,www.premierleague.com/players/22043/Ethan-Pinnock/overview
+Alfie Pond,Defender,Wolverhampton Wanderers,24/09/2001,www.premierleague.com/players/108956/Alfie-Pond/overview
+Nick Pope,Goalkeeper,Newcastle United,19/04/1992,www.premierleague.com/players/10079/Nick-Pope/overview
+Pedro Porro,Defender,Tottenham Hotspur,26/10/2004,www.premierleague.com/players/32229/Pedro-Porro/overview
+Jack Porter,Goalkeeper,Arsenal,15/07/2008,www.premierleague.com/players/135769/Jack-Porter/overview
+Jarell Quansah,Defender,Liverpool,12/09/2003,www.premierleague.com/players/51557/Jarell-Quansah/overview
+Samuel Rak Sakyi,Midfielder,Chelsea,28/05/1997,www.premierleague.com/players/117590/Samuel-Rak-Sakyi/overview
+Aaron Ramsdale,Goalkeeper,Southampton,14/05/1998,www.premierleague.com/players/13703/Aaron-Ramsdale/overview
+Jacob Ramsey,Midfielder,Aston Villa,28/05/2001,www.premierleague.com/players/19888/Jacob-Ramsey/overview
+Marcus Rashford,Forward,Manchester United,12/05/1987,www.premierleague.com/players/13565/Marcus-Rashford/overview
+Luke Rawlings,Midfielder,Wolverhampton Wanderers,None,www.premierleague.com/players/132169/Luke-Rawlings/overview
+David Raya,Goalkeeper,Arsenal,15/09/1995,www.premierleague.com/players/7975/David-Raya/overview
+Harrison Reed,Midfielder,Fulham,15/10/2003,www.premierleague.com/players/4818/Harrison-Reed/overview
+Sergio Reguilón,Defender,Tottenham Hotspur,16/12/1996,www.premierleague.com/players/39606/Sergio-Reguilón/overview
+Renato Veiga,Midfielder,Chelsea,20/12/2001,www.premierleague.com/players/119078/Renato-Veiga/overview
+Chadi Riad,Defender,Crystal Palace,13/11/2002,www.premierleague.com/players/110549/Chadi-Riad/overview
+Ricardo Pereira,Defender,Leicester City,06/10/1993,www.premierleague.com/players/5343/Ricardo-Pereira/overview
+Declan Rice,Midfielder,Arsenal,14/01/1999,www.premierleague.com/players/15202/Declan-Rice/overview
+Richarlison,Forward,Tottenham Hotspur,10/11/2005,www.premierleague.com/players/24630/Richarlison/overview
+Andy Robertson,Defender,Liverpool,09/09/1996,www.premierleague.com/players/10458/Andy-Robertson/overview
+Josh Robinson,Defender,Arsenal,20/12/2004,www.premierleague.com/players/114131/Josh-Robinson/overview
+Kaden Rodney,Midfielder,Crystal Palace,17/10/2002,www.premierleague.com/players/112449/Kaden-Rodney/overview
+Rodri,Midfielder,Manchester City,22/10/1997,www.premierleague.com/players/16286/Rodri/overview
+Rodrigo Gomes,Forward,Wolverhampton Wanderers,07/07/2003,www.premierleague.com/players/108947/Rodrigo-Gomes/overview
+Rodrigo Muniz,Forward,Fulham,04/05/2001,www.premierleague.com/players/117763/Rodrigo-Muniz/overview
+Guido Rodríguez,Midfielder,West Ham United,28/04/2005,www.premierleague.com/players/40159/Guido-Rodríguez/overview
+Mads Roerslev,Defender,Brentford,24/06/1999,www.premierleague.com/players/21297/Mads-Roerslev/overview
+Morgan Rogers,Forward,Aston Villa,26/07/2002,www.premierleague.com/players/23968/Morgan-Rogers/overview
+Alexei Rojas Fedorushchenko,Goalkeeper,Arsenal,28/09/2005,www.premierleague.com/players/119533/Alexei-Rojas-Fedorushchenko/overview
+Cristian Romero,Defender,Tottenham Hotspur,27/04/1998,www.premierleague.com/players/66635/Cristian-Romero/overview
+Triston Rowe,Defender,Aston Villa,26/04/2005,www.premierleague.com/players/124179/Triston-Rowe/overview
+Rúben Dias,Defender,Manchester City,14/05/1997,www.premierleague.com/players/16431/Rúben-Dias/overview
+John Ruddy,Goalkeeper,Newcastle United,24/10/1986,www.premierleague.com/players/2896/John-Ruddy/overview
+Georginio Rutter,Forward,Brighton and Hove Albion,18/02/1995,www.premierleague.com/players/51830/Georginio-Rutter/overview
+Bukayo Saka,Forward,Arsenal,24/07/2004,www.premierleague.com/players/49481/Bukayo-Saka/overview
+William Saliba,Defender,Arsenal,24/03/2001,www.premierleague.com/players/66204/William-Saliba/overview
+Sam Morsy,Midfielder,Ipswich Town,10/09/1991,www.premierleague.com/players/8388/Sam-Morsy/overview
+Imari Samuels,Defender,Fleetwood Town,22/10/1999,www.premierleague.com/players/48290/Imari-Samuels/overview
+Robert Sánchez,Goalkeeper,Chelsea,05/06/2006,www.premierleague.com/players/14538/Robert-Sánchez/overview
+Jadon Sancho,Forward,Chelsea,25/03/2000,www.premierleague.com/players/14801/Jadon-Sancho/overview
+Ibrahim Sangaré,Midfielder,Nottingham Forest,02/12/1997,www.premierleague.com/players/108816/Ibrahim-Sangaré/overview
+Pablo Sarabia,Midfielder,Wolverhampton Wanderers,15/04/2003,www.premierleague.com/players/19814/Pablo-Sarabia/overview
+Savinho,Forward,Manchester City,16/06/2002,www.premierleague.com/players/126943/Savinho/overview
+Ollie Scarles,Defender,West Ham United,14/02/2005,www.premierleague.com/players/117579/Ollie-Scarles/overview
+Kevin Schade,Midfielder,Brentford,24/03/2004,www.premierleague.com/players/127594/Kevin-Schade/overview
+Fabian Schär,Defender,Newcastle United,20/12/1991,www.premierleague.com/players/5220/Fabian-Schär/overview
+Jeffrey Schlupp,Midfielder,Crystal Palace,23/01/2000,www.premierleague.com/players/8980/Jeffrey-Schlupp/overview
+Alex Scott,Midfielder,Bournemouth,21/08/2003,www.premierleague.com/players/74976/Alex-Scott/overview
+Matz Sels,Goalkeeper,Nottingham Forest,07/12/2003,www.premierleague.com/players/16723/Matz-Sels/overview
+Antoine Semenyo,Forward,Bournemouth,07/01/2000,www.premierleague.com/players/25474/Antoine-Semenyo/overview
+Marcos Senesi,Defender,Bournemouth,10/05/1997,www.premierleague.com/players/54989/Marcos-Senesi/overview
+Ryan Sessegnon,Midfielder,Fulham,18/05/2000,www.premierleague.com/players/14656/Ryan-Sessegnon/overview
+Tommy Setford,Goalkeeper,Arsenal,13/03/2006,www.premierleague.com/players/119036/Tommy-Setford/overview
+Luke Shaw,Defender,Manchester United,18/03/2007,www.premierleague.com/players/4608/Luke-Shaw/overview
+Martin Sherif,Forward,Everton,05/11/2003,www.premierleague.com/players/117608/Martin-Sherif/overview
+Jahmai Simpson Pusey,Defender,Manchester City,02/02/2004,www.premierleague.com/players/119611/Jahmai-Simpson-Pusey/overview
+Luis Sinisterra,Forward,Bournemouth,17/06/1999,www.premierleague.com/players/50498/Luis-Sinisterra/overview
+Oliver Skipp,Midfielder,Leicester City,16/09/2000,www.premierleague.com/players/21413/Oliver-Skipp/overview
+Cieran Slicker,Goalkeeper,Ipswich Town,15/09/2002,www.premierleague.com/players/53075/Cieran-Slicker/overview
+Will Smallbone,Midfielder,Southampton,15/05/2004,www.premierleague.com/players/14997/Will-Smallbone/overview
+Adam Smith,Defender,Bournemouth,29/04/1991,www.premierleague.com/players/3512/Adam-Smith/overview
+Emile Smith Rowe,Midfielder,Fulham,28/07/2000,www.premierleague.com/players/14445/Emile-Smith-Rowe/overview
+Dominic Solanke,Forward,Tottenham Hotspur,14/09/1997,www.premierleague.com/players/10443/Dominic-Solanke/overview
+Carlos Soler,Midfielder,West Ham United,02/01/1997,www.premierleague.com/players/16268/Carlos-Soler/overview
+Son Heung Min,Forward,Tottenham Hotspur,24/07/1999,www.premierleague.com/players/4999/Son-Heung-Min/overview
+Ramón Sosa,Forward,Nottingham Forest,31/08/1999,www.premierleague.com/players/144693/Ramón-Sosa/overview
+Tomás Soucek,Midfielder,West Ham United,27/02/1995,www.premierleague.com/players/25183/Tomás-Soucek/overview
+Boubakary Soumaré,Midfielder,Sevilla,27/02/1999,www.premierleague.com/players/50247/Boubakary-Soumaré/overview
+Djed Spence,Defender,Tottenham Hotspur,19/01/2005,www.premierleague.com/players/23764/Djed-Spence/overview
+Jason Steele,Goalkeeper,Brighton and Hove Albion,19/02/2002,www.premierleague.com/players/3457/Jason-Steele/overview
+Raheem Sterling,Forward,Arsenal,02/04/1995,www.premierleague.com/players/4316/Raheem-Sterling/overview
+Ross Stewart,Forward,Southampton,10/04/2003,www.premierleague.com/players/112549/Ross-Stewart/overview
+Jakub Stolarczyk,Goalkeeper,Leicester City,19/12/2000,www.premierleague.com/players/25444/Jakub-Stolarczyk/overview
+John Stones,Defender,Manchester City,28/05/1994,www.premierleague.com/players/4505/John-Stones/overview
+Jørgen Strand Larsen,Forward,Wolverhampton Wanderers,19/03/1995,www.premierleague.com/players/35670/Jørgen-Strand-Larsen/overview
+Yukinari Sugawara,Defender,Southampton,15/06/2004,www.premierleague.com/players/67238/Yukinari-Sugawara/overview
+Kamaldeen Sulemana,Midfielder,Southampton,15/02/2002,www.premierleague.com/players/123910/Kamaldeen-Sulemana/overview
+Crysencio Summerville,Forward,West Ham United,30/10/2001,www.premierleague.com/players/65961/Crysencio-Summerville/overview
+Sil Swinkels,Defender,Aston Villa,20/01/2005,www.premierleague.com/players/98302/Sil-Swinkels/overview
+Sam Szmodics,Midfielder,Ipswich Town,04/12/2002,www.premierleague.com/players/8417/Sam-Szmodics/overview
+Dominik Szoboszlai,Midfielder,Liverpool,25/10/2000,www.premierleague.com/players/33231/Dominik-Szoboszlai/overview
+Matt Targett,Defender,Newcastle United,31/03/1999,www.premierleague.com/players/4815/Matt-Targett/overview
+James Tarkowski,Defender,Everton,19/11/1992,www.premierleague.com/players/8143/James-Tarkowski/overview
+Marcus Tavernier,Midfielder,Bournemouth,08/03/2004,www.premierleague.com/players/14846/Marcus-Tavernier/overview
+Jack Taylor,Midfielder,Ipswich Town,23/06/1998,www.premierleague.com/players/19723/Jack-Taylor/overview
+Kenny Tete,Defender,Fulham,09/10/1995,www.premierleague.com/players/4880/Kenny-Tete/overview
+Thiago,Forward,Brentford,26/06/2001,www.premierleague.com/players/124052/Thiago/overview
+Youri Tielemans,Midfielder,Aston Villa,22/09/1984,www.premierleague.com/players/5865/Youri-Tielemans/overview
+Kieran Tierney,Defender,Real Sociedad,05/06/1997,www.premierleague.com/players/12185/Kieran-Tierney/overview
+Jurriën Timber,Defender,Arsenal,17/06/2001,www.premierleague.com/players/67776/Jurriën-Timber/overview
+Jean Clair Todibo,Defender,West Ham United,30/12/1999,www.premierleague.com/players/63656/Jean-Clair-Todibo/overview
+Harry Toffolo,Defender,Nottingham Forest,19/08/1995,www.premierleague.com/players/10933/Harry-Toffolo/overview
+Takehiro Tomiyasu,Defender,Arsenal,05/11/1998,www.premierleague.com/players/115169/Takehiro-Tomiyasu/overview
+Sandro Tonali,Midfielder,Newcastle United,29/03/1989,www.premierleague.com/players/71623/Sandro-Tonali/overview
+Pau Torres,Defender,Aston Villa,16/03/1996,www.premierleague.com/players/21529/Pau-Torres/overview
+Toti Gomes,Defender,Wolverhampton Wanderers,16/01/1999,www.premierleague.com/players/92635/Toti-Gomes/overview
+Conor Townsend,Defender,Ipswich Town,04/03/1993,www.premierleague.com/players/4864/Conor-Townsend/overview
+Mark Travers,Goalkeeper,Bournemouth,06/09/1995,www.premierleague.com/players/50453/Mark-Travers/overview
+Ryan Trevitt,Midfielder,Brentford,12/03/2003,www.premierleague.com/players/128264/Ryan-Trevitt/overview
+Kieran Trippier,Defender,Newcastle United,19/09/1990,www.premierleague.com/players/3905/Kieran-Trippier/overview
+Leandro Trossard,Forward,Arsenal,04/12/1994,www.premierleague.com/players/20486/Leandro-Trossard/overview
+Kostas Tsimikas,Defender,Liverpool,12/05/1996,www.premierleague.com/players/16006/Kostas-Tsimikas/overview
+Axel Tuanzebe,Defender,Ipswich Town,14/11/1997,www.premierleague.com/players/13559/Axel-Tuanzebe/overview
+Matt Turner,Goalkeeper,Crystal Palace,24/06/1994,www.premierleague.com/players/54760/Matt-Turner/overview
+Ed Turns,Defender,Crewe Alexandra,31/12/2003,www.premierleague.com/players/49173/Ed-Turns/overview
+Destiny Udogie,Defender,Tottenham Hotspur,06/12/2001,www.premierleague.com/players/126824/Destiny-Udogie/overview
+Manuel Ugarte,Midfielder,Manchester United,11/04/2001,www.premierleague.com/players/118031/Manuel-Ugarte/overview
+Lesley Ugochukwu,Midfielder,Southampton,26/03/2004,www.premierleague.com/players/74960/Lesley-Ugochukwu/overview
+Franco Umeh Chibueze,Forward,Crystal Palace,26/01/2005,www.premierleague.com/players/134955/Franco-Umeh-Chibueze/overview
+Enes Ünal,Forward,Bournemouth,10/05/1997,www.premierleague.com/players/16582/Enes-Ünal/overview
+Hákon Valdimarsson,Goalkeeper,Brentford,19/07/1996,www.premierleague.com/players/144788/Hákon-Valdimarsson/overview
+Micky van de Ven,Defender,Tottenham Hotspur,18/04/1997,www.premierleague.com/players/75582/Micky-van-de-Ven/overview
+Sepp van den Berg,Defender,Brentford,20/12/2001,www.premierleague.com/players/65987/Sepp-van-den-Berg/overview
+Virgil van Dijk,Defender,Liverpool,08/07/1991,www.premierleague.com/players/5140/Virgil-van-Dijk/overview
+Jan Paul van Hecke,Defender,Brighton and Hove Albion,08/06/2000,www.premierleague.com/players/76090/Jan-Paul-van-Hecke/overview
+Jamie Vardy,Forward,Leicester City,25/04/1993,www.premierleague.com/players/8979/Jamie-Vardy/overview
+Joël Veltman,Defender,Brighton and Hove Albion,19/09/2003,www.premierleague.com/players/4874/Joël-Veltman/overview
+Bart Verbruggen,Goalkeeper,Brighton and Hove Albion,18/08/2002,www.premierleague.com/players/75709/Bart-Verbruggen/overview
+Jannik Vestergaard,Defender,Leicester City,03/08/1992,www.premierleague.com/players/20109/Jannik-Vestergaard/overview
+Guglielmo Vicario,Goalkeeper,Tottenham Hotspur,07/10/1996,www.premierleague.com/players/71923/Guglielmo-Vicario/overview
+Odysseas Vlachodimos,Goalkeeper,Newcastle United,24/10/2003,www.premierleague.com/players/20547/Odysseas-Vlachodimos/overview
+Kyle Walker,Defender,Manchester City,28/05/1990,www.premierleague.com/players/3955/Kyle-Walker/overview
+Kyle Walker Peters,Defender,Southampton,13/04/1997,www.premierleague.com/players/13815/Kyle-Walker-Peters/overview
+Christian Walton,Goalkeeper,Ipswich Town,16/12/2004,www.premierleague.com/players/8159/Christian-Walton/overview
+Aaron Wan Bissaka,Defender,West Ham United,26/11/1997,www.premierleague.com/players/14164/Aaron-Wan-Bissaka/overview
+Joel Ward,Defender,Crystal Palace,19/10/2002,www.premierleague.com/players/3929/Joel-Ward/overview
+James Ward Prowse,Midfielder,Nottingham Forest,01/11/1994,www.premierleague.com/players/4617/James-Ward-Prowse/overview
+Ollie Watkins,Forward,Aston Villa,10/10/2002,www.premierleague.com/players/8658/Ollie-Watkins/overview
+Adam Webster,Defender,Brighton and Hove Albion,04/01/1995,www.premierleague.com/players/9426/Adam-Webster/overview
+Danny Welbeck,Forward,Brighton and Hove Albion,31/01/2002,www.premierleague.com/players/3452/Danny-Welbeck/overview
+Timo Werner,Forward,Tottenham Hotspur,18/02/2004,www.premierleague.com/players/23599/Timo-Werner/overview
+Adam Wharton,Midfielder,Crystal Palace,06/02/2004,www.premierleague.com/players/69595/Adam-Wharton/overview
+Ethan Wheatley,Forward,Manchester United,20/01/2006,www.premierleague.com/players/124366/Ethan-Wheatley/overview
+Ben White,Defender,Arsenal,08/10/1997,www.premierleague.com/players/14548/Ben-White/overview
+Alfie Whiteman,Goalkeeper,Tottenham Hotspur,02/10/1998,www.premierleague.com/players/15111/Alfie-Whiteman/overview
+Mats Wieffer,Midfielder,Brighton and Hove Albion,21/10/2004,www.premierleague.com/players/72239/Mats-Wieffer/overview
+Luca Williams Barnett,Forward,Tottenham Hotspur,22/12/2004,www.premierleague.com/players/134791/Luca-Williams-Barnett/overview
+Joe Willock,Midfielder,Newcastle United,09/08/1988,www.premierleague.com/players/14446/Joe-Willock/overview
+Harry Wilson,Midfielder,Fulham,22/03/1997,www.premierleague.com/players/13961/Harry-Wilson/overview
+Josh Wilson Esbrand,Defender,Manchester City,26/12/2002,www.premierleague.com/players/48690/Josh-Wilson-Esbrand/overview
+Harry Winks,Midfielder,Leicester City,02/02/1996,www.premierleague.com/players/7488/Harry-Winks/overview
+Yoane Wissa,Midfielder,Brentford,16/07/2001,www.premierleague.com/players/117497/Yoane-Wissa/overview
+Chris Wood,Forward,Nottingham Forest,07/12/1991,www.premierleague.com/players/3756/Chris-Wood/overview
+Luke Woolfenden,Defender,Ipswich Town,21/10/1998,www.premierleague.com/players/14203/Luke-Woolfenden/overview
+Yehor Yarmoliuk,Midfielder,Brentford,30/03/2005,www.premierleague.com/players/128891/Yehor-Yarmoliuk/overview
+Ryan Yates,Midfielder,Nottingham Forest,21/11/1997,www.premierleague.com/players/14238/Ryan-Yates/overview
+Tony Yogane,Midfielder,Brentford,24/09/2005,www.premierleague.com/players/128890/Tony-Yogane/overview
+Leny Yoro,Defender,Manchester United,13/11/2005,www.premierleague.com/players/118591/Leny-Yoro/overview
+Kadan Young,Forward,Aston Villa,19/01/2006,www.premierleague.com/players/114470/Kadan-Young/overview
+Youssef Chermiti,Forward,Everton,24/05/2004,www.premierleague.com/players/119034/Youssef-Chermiti/overview
+Illia Zabarnyi,Defender,Bournemouth,01/09/2002,www.premierleague.com/players/67546/Illia-Zabarnyi/overview
+Oleksandr Zinchenko,Defender,Arsenal,02/07/1999,www.premierleague.com/players/19620/Oleksandr-Zinchenko/overview
+Joshua Zirkzee,Forward,Manchester United,22/05/2001,www.premierleague.com/players/50848/Joshua-Zirkzee/overview
